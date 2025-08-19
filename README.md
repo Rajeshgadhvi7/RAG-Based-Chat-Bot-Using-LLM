@@ -97,7 +97,7 @@ Follow these steps to set up and run the RAG-based Q/A system. The project is st
 Clone the repository to your local system using Git:
 
 ```bash
-git clone https://github.com/Omshrivastav12/your-repo-name.git
+git clone https://github.com/rajeshgadhvi7/your-repo-name.git
 cd your-repo-name
 ```
 
@@ -210,8 +210,8 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 Feel free to reach out for questions or support:
 
-- **Name**: Om Subhash Shrivastav
-- **Email**: [omshrivastav1005@gmail.com](mailto:omshrivastav1005@gmail.com)
-- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
+- **Name**: Rajesh gadhvi
+- **Email**: [Rajesh7gadhvi@gmail.com](mailto:Rajesh7gadhvi@gmail.com)
+- **GitHub**: [Rajeshgadhvi7]
 
 Happy recommending! 🌟
