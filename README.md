@@ -212,6 +212,6 @@ Feel free to reach out for questions or support:
 
 - **Name**: Rajesh gadhvi
 - **Email**: [Rajesh7gadhvi@gmail.com](mailto:Rajesh7gadhvi@gmail.com)
-- **GitHub**: [Rajeshgadhvi7]
+- **GitHub**: [Rajeshgadhvi7](https://github.com/Rajeshgadhvi7)
 
 Happy recommending! 🌟
